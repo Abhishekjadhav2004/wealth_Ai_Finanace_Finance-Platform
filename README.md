@@ -1,4 +1,3 @@
-````markdown
 # 💰 Wealth - AI Finance Platform
 
 An AI-powered personal finance management platform built with **Next.js 15**, **React 19**, **Supabase**, and **Prisma** to help users track expenses, manage budgets, and gain intelligent financial insights.
@@ -57,15 +56,22 @@ data/
 
 ---
 
+## 📸 Screenshots
 
 ### Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1659624b-5730-4f23-adea-8daa4d0faacc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1659624b-5730-4f23-adea-8daa4d0faacc" alt="Dashboard" width="900"/>
+</p>
 
 ### Transaction Management
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf9f6dfc-fd05-4977-aafd-c4c386db2d9f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf9f6dfc-fd05-4977-aafd-c4c386db2d9f" alt="Transaction Management" width="900"/>
+</p>
 
-### Analytics
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1d2f367-2a26-4968-a7cc-8bf83f77225b" />
+### Analytics Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1d2f367-2a26-4968-a7cc-8bf83f77225b" alt="Analytics Dashboard" width="900"/>
+</p>
 
 ---
 
@@ -113,10 +119,11 @@ http://localhost:3000
 
 ## 🎯 Key Highlights
 
-- Built a **Full Stack AI Finance Platform** with modern web technologies.
-- Implemented **secure authentication and scalable architecture**.
-- Designed **AI-powered analytics and financial insights**.
-- Developed **responsive dashboards and transaction management workflows**.
+- Built a **Full Stack AI Finance Platform** using **Next.js 15, React 19, Supabase, and Prisma**.
+- Implemented **secure authentication and authorization** with **Clerk** and **Arcjet**.
+- Developed **transaction management, budgeting, analytics, and multi-currency support**.
+- Integrated **AI-powered insights** and **Inngest background workflows**.
+- Designed a **responsive, scalable, and production-ready architecture**.
 
 ---
 
@@ -136,8 +143,8 @@ http://localhost:3000
 **Abhishek Jadhav**
 
 - GitHub: https://github.com/Abhishekjadhav2004
+- LinkedIn: www.linkedin.com/in/abhishek-jadhav2004
 
 ---
 
 ⭐ If you found this project useful, don't forget to **star the repository**.
-````
