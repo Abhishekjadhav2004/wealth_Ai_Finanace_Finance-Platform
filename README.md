@@ -57,16 +57,15 @@ data/
 
 ---
 
-## 📸 Screenshots
 
 ### Dashboard
-Add your dashboard screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1659624b-5730-4f23-adea-8daa4d0faacc" />
 
 ### Transaction Management
-Add transaction page screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf9f6dfc-fd05-4977-aafd-c4c386db2d9f" />
 
 ### Analytics
-Add analytics dashboard screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1d2f367-2a26-4968-a7cc-8bf83f77225b" />
 
 ---
 
@@ -137,7 +136,6 @@ http://localhost:3000
 **Abhishek Jadhav**
 
 - GitHub: https://github.com/Abhishekjadhav2004
-- LinkedIn: Add your LinkedIn profile here.
 
 ---
 
